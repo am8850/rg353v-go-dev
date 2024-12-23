@@ -70,3 +70,4 @@ Hello, World!
 - The RG353V is a computer on wheels and the sky here is really the limit, but some use cases are simple web services
 - Raspeberry PIs and other SoCs are getting expensive, and this device offers a lot of power for a portable device
 - Will look into accessing the screen and buttons, possibly to write simple utilities (like network utilities) and games
+- The OS includes Python 3, which opens up the device for even more opportunities
