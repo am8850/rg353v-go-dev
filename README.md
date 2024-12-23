@@ -50,8 +50,9 @@ func main() {
 ```text
 Hello, World!
 ```
+- To exist ssh, type `exit` at the command line
 
-## A more powerful example - run a file server
+## File server - Transfer files to/from the device over a browser
 
 - Clone the following repo by `github.com/spcnvdr`: `git clone https://github.com/spcnvdr/go-fileserver.git`
 - Navigate into the repo: `cd go-fileserver`
@@ -62,8 +63,8 @@ Hello, World!
 - Open a browser from your PC at: `http://<DEVICE_IP>:8080`
 - Try to download and/or upload a file the the RG353V
 - If you need more help form the `mini` app type: `mini --help`
-- To exit the app and SSH
-- Press CTRL+C
+- To exit the app, press: `CTRL+C`
+- To exit SSH, type 'exit` at the command line
 
 ## Potential uses
 
